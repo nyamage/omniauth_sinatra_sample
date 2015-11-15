@@ -14,13 +14,13 @@ $bundle install
 
 1. go to https://apps.twitter.com/ and register sample app
 2. obtain api key and api secret
-3. configure callback url ('http://<yourdomain>/auth/twitter/callback') for our sample app 
+3. configure callback url ('http://yourdomain/auth/twitter/callback') for our sample app 
 
 ## facebook
 
 1. go to https://developers.facebook.com/apps/ and register sample app
 2. obtain api key and api secret
-3. configure callback url ('http://<yourdomain>/auth/facebook/callback') for our sample app
+3. configure callback url ('http://yourdomain/auth/facebook/callback') for our sample app
 
 # How to run
 
