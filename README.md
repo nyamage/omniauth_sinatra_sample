@@ -6,6 +6,7 @@ Super simple sinatra sample app for omniauth
 ```
 $git clone https://github.com/nyamage/omniauth_sinatra_sample.git
 $bundle install
+$bundle exec rake db:migrate
 ```
 
 # Get key and secret for twitter and facebook
